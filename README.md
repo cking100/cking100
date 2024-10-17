@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm chirag</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align = "right" alt = "Coding" width = "400" src ="https://www.icegif.com/wp-content/uploads/2023/02/icegif-776.gif">
+<img align = "right" alt = "Coding" width = "400" src ="https://www.infoworld.com/wp-content/uploads/2024/06/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-orig.jpg?quality=50&strip=all">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cking100&label=Profile%20views&color=0e75b6&style=flat" alt="cking100" /> </p>
 
