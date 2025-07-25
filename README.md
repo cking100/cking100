@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cking100&label=Profile%20views&color=0e75b6&style=flat" alt="cking100" /> </p>
 
-- 🔭 I’m currently working on [CodeQuest](https://github.com/cking100/CpdeQuest)
+- 🔭 I’m currently working on [CodeQuest](https://github.com/cking100/CodeQuest)
 
 - 🌱 I’m currently learning **React,Spring**
 
