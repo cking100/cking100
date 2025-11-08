@@ -1,7 +1,7 @@
 ## hey there👋 ! **Chirag Taneja** 🚀
 
 
-- 👨🏻‍💻 alias: @acking100
+- 👨🏻‍💻 alias: @cking100
 - 💼 **Google Codein 2018 and 2019**
 - 💻 currently contributing in opensource and learning dsa
 - 🔎 primarily into backend engineering 
