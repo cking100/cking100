@@ -9,9 +9,8 @@
 - 🎉 socials: [linkedin](https://linkedin.com/in/chiragtaneja13)
 
 🚀 some stuff I’ve built:
--  [**Codequest**](http://anxkhn.github.io/CpdeQuest): learning and problem solving platform
--  [**Healup**](https://github.com/anxkhn/Healup): ML based disease predictor
--  [**ResumeAI**](http://anxkhn.github.io/ResumeAi): Ml based ats and resume checker
+-  [**Codequest**](https://github.com/cking100/CodeQuest): learning and problem solving platform
+-  [**ResumeAI**](https://github.com/cking100/BoostCV): Ml based ats and resume checker
   
 
 
