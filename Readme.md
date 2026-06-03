@@ -37,10 +37,11 @@ Generative AI • LLMs • AI Integration
 
 ###  Connect
 
-- **Portfolio** → [chiragtaneja.tech](https://cking100.github.io/#/home)
-- **LinkedIn** → [Chirag Taneja](https://linkedin.com/in/chiragtaneja13)
-- **Email** → [c.taneja09@gmail.com](mailto:c.taneja09@gmail.com)
+## Connect
 
+[Portfolio](https://cking100.github.io/#/home) •
+[LinkedIn](https://linkedin.com/in/chiragtaneja13) •
+[Email](mailto:c.taneja09@gmail.com)
 ---
 
 > Building reliable software, learning every day, and contributing where I can.
